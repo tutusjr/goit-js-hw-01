@@ -1,5 +1,3 @@
-console.log('---------TASK-2---------')
-
 function getShippingMessage(country, price ,delirveryFee) {
     return `Shipping to ${country} will cost ${price + delirveryFee} credits`
 }
